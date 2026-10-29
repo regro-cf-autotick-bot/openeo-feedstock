@@ -27,7 +27,7 @@ requirements:
     - deprecated >=1.2.12
     - numpy >=1.17.0
     - pandas >0.20.0,<3.0.0  # https://github.com/Open-EO/openeo-python-client/blob/v0.53.0/pyproject.toml#L30
-    - pystac >= 1.9.0 # https://github.com/Open-EO/openeo-python-client/blob/v0.54.0/pyproject.toml#L31
+    - pystac >=1.9.0 # https://github.com/Open-EO/openeo-python-client/blob/v0.54.0/pyproject.toml#L31
     - requests >=2.26.0
     - shapely >=1.6.4
     - xarray >=2024.7.0
